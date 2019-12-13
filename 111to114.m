@@ -1,5 +1,5 @@
 %Fund. EM w/ MATLAB
-%Ch.1 - Exercises
+%Ch.1 - Exercises.
 
 %Given two vectors A=3ux+4uy+Su,and B =-Su.+4Liy- 3u,,findC=A+BandD=A- B.
 %In addition,carefully illustrate these vectors using MATLAB.
