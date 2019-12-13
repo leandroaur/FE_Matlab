@@ -1,2 +1,2 @@
 # FE_Matlab
-Fundamentals of Electromagnectics with Matlab
+Fundamentals of Electromagnectics with Matlab.
